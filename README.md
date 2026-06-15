@@ -1,5 +1,5 @@
 # 💫 About Me:
-assionate about Data Analytics and Machine Learning. Skilled in SQL, Python, Excel, and Power BI, with experience in data cleaning, visualization, and predictive modeling. Always learning and building data-driven projects to solve real-world problems. 🚀📊
+Passionate about Data Analytics and Machine Learning. Skilled in SQL, Python, Excel, and Power BI, with experience in data cleaning, visualization, and predictive modeling. Always learning and building data-driven projects to solve real-world problems. 🚀📊
 
 
 ## 🌐 Socials:
